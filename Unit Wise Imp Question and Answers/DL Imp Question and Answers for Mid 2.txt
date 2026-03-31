@@ -1,0 +1,14 @@
+UNIT 3
+1. A) Explain the Data Type in CNNs.
+   B) Explain Efficient Convolution Algorithm
+
+UNIT 4
+2. Why do we need Recurrent neural networks and Discuss about RNN with an Example.
+3. Describe in brief about Sentiment Analysis using Recursive Neural Networks.
+4. Write in brief about Evaluations and Applications in word similarity.
+5. Explain the architecture of LSTM and working principles with all the equations.
+6. What is a bidirectional RNN and explain its Architecture with a diagram.
+
+UNIT 5
+7. Discuss the various performance metrics to evaluate a deep learning model with an example.
+8. Explain the example of Multi-Digit Number Recognition.
